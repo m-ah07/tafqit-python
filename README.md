@@ -4,7 +4,7 @@ Tafqit-Python is a lightweight and modular Python service designed to convert nu
 
 ---
 
-## Features
+## 🚀 Features
 
 - **Multi-Language Support:** Out-of-the-box support for Arabic and English.
 - **Arabic Number Conversion:** Converts integers into grammatically correct Arabic words.
@@ -12,12 +12,12 @@ Tafqit-Python is a lightweight and modular Python service designed to convert nu
 - **Lightweight and Efficient:** Designed with simplicity and performance in mind.
 
 
-## Requirements
+## ⚙️ Requirements
 
 - Python 3.6 or higher.
 
 
-## Installation
+## 🔧 Installation
 
 To use Tafqit-Python, clone the repository to your local machine:
 
@@ -27,7 +27,7 @@ cd tafqit-python
 ```
 
 
-## Usage
+## 📖 Usage
 
 Here’s a simple example of how to use Tafqit-Python:
 
@@ -46,20 +46,22 @@ print(f"Number in Arabic: {arabic_result}")
 english_result = tafqit.convert_to_words(number, language="en")
 print(f"Number in English: {english_result}")
 ```
----
 
-## Directory Structure
 
+## 📂 Directory Structure
+```plaintext
 tafqit-python/
 ├── src/
-│   ├── tafqit.py        # Core library code
-│   └── __init__.py      # Package initialization
+│   ├── tafqit.py
+│   └── __init__.py
 ├── examples/
-│   └── example.py       # Usage example
+│   └── example.py
 ├── tests/
-│   └── test_tafqit.py   # Unit tests
-├── README.md            # Project documentation
-└── requirements.txt     # Python dependencies
+│   └── test_tafqit.py
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
 
 ## Tests
 
@@ -69,9 +71,7 @@ Run the following command to execute the tests:
 pytest tests/test_tafqit.py
 ```
 
----
-
-## Contributing
+## 🛠️ Contributing
 
 Contributions are welcome! Here's how you can get involved:
 
@@ -81,6 +81,8 @@ Contributions are welcome! Here's how you can get involved:
 - Push to the branch `git push origin feature-branch`.
 - Open a Pull Request.
 
+## 🌟 Show Your Support
+If you found this project helpful, please consider giving it a ⭐ on GitHub. Your support means the world to us!
 
 
 
