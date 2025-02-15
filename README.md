@@ -22,7 +22,7 @@ Tafqit-Python is a lightweight and modular Python service designed to convert nu
 To use Tafqit-Python, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/marwan-ahmed-23/tafqit-python.git
+git clone https://github.com/m-ah07/tafqit-python.git
 cd tafqit-python
 ```
 
